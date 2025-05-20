@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("umur saya: ", 99)
+	fmt.Println("umur saya = ", 99)
 }
