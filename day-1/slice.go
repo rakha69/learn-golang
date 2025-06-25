@@ -26,13 +26,13 @@ func main() {
 
 	daySlice1[0] = "Sabtu Baru"
 	daySlice1[1] = "Minggu Baru"
-	fmt.Println(daySlice1)
+	fmt.Println("imni", daySlice1)
 	fmt.Println(days)
 
 	daySlice2 := append(daySlice1, "Libur Baru")
 	daySlice2[0] = "sabtu lama"
 	//days := [...]string{"senin", "selasa", "rabu", "ksmis", "jumat", "sabtu", "minggu" "libur baru"}
-	fmt.Println(daySlice1)
+	fmt.Println("ini apa \n", daySlice1)
 	fmt.Println(daySlice2)
 	fmt.Println(days)
 
